@@ -1,0 +1,9 @@
+com/db/KVStore/KeyValue.class
+com/db/KVStore/KVStorePersistent.class
+com/db/KVStore/KVStoreInMemory.class
+com/db/KVStore/KVStore.class
+com/db/KVStore/AbstractKVStoreDecorator.class
+com/db/KVStore/User$UserBuilder.class
+com/db/KVStore/KvStoreApplication.class
+com/db/KVStore/KVStoreSnaphotPersistent.class
+com/db/KVStore/User.class

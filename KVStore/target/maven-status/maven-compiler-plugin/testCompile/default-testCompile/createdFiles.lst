@@ -1,0 +1,3 @@
+com/db/KVStore/KvStoreApplicationTests.class
+com/db/KVStore/KVStoreSnaphotPersistentTest.class
+com/db/KVStore/KVStoreInMemoryTest.class
