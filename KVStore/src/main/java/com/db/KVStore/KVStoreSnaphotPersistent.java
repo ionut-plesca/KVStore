@@ -32,6 +32,7 @@ public class KVStoreSnaphotPersistent<T> extends AbstractKVStoreDecorator<T> {
 		}
 	}
 
+	@SuppressWarnings("unchecked")
 	private KeyValue<T> readKeyValueFromJsonLine(String line) {
 		try {
 			return (KeyValue<T>) objectMapper.readValue(line, kvClass);

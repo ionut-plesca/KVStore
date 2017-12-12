@@ -17,6 +17,7 @@ public class KVStoreObservableTest {
 		user = new User(1L, "Gigi");
 		kvStore = kvStore();
 		// kvStoreInMem=new KVStoreInMemory<>(new LinkedHashMap<>());
+		
 	}
 
 	@SuppressWarnings("unchecked")
